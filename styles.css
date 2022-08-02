@@ -65,7 +65,7 @@ button {
     text-transform: uppercase;
     background: transparent;
     padding: 1em 1.7em;
-    border: 2px solid var(--heading-color);
+    border: 1px solid var(--heading-color);
     border-radius: 3px;
     letter-spacing: 2px;
 }
@@ -84,16 +84,16 @@ button {
 }
 
 .increase:hover {
-    border: 2px solid var(--increase-color);
+    border: 1px solid var(--increase-color);
     background: var(--increase-color);
 }
 
 .decrease:hover {
-    border: 2px solid var(--decrease-color);
+    border: 1px solid var(--decrease-color);
     background: var(--decrease-color);
 }
 
 .reset:hover {
-    border: 2px solid var(--heading-color );
+    border: 1px solid var(--heading-color );
     background: var(--heading-color);
 }
